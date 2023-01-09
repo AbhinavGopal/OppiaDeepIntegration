@@ -15,7 +15,7 @@
   "dependencies": {
     "@assistant/conversation": "^3.0.1",
     "actions-on-google": "^2.12.0",
-    "firebase-admin": "^8.10.0",
+    "firebase-admin": "^11.4.1",
     "firebase-functions": "^3.6.1",
     "jQuery": "^1.7.4"
   },
